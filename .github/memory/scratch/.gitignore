@@ -1,0 +1,6 @@
+# Ignore all files in scratch/ directory
+# This keeps active session notes local and ephemeral
+*
+
+# Exception: don't ignore .gitignore itself
+!.gitignore
